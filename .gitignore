@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Generated figures are not part of this code archive
+FigureS*.png
+FigureS*.pdf
+figures/
+out/
+
+# Local configuration / credentials — never commit
+.env
+*.token
+project_root/
+audit_root/
